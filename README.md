@@ -5,3 +5,5 @@ this is my first git repository.
 Author - Vineeth (myinsghts)
 
 git commit - local repo
+
+git commit - main repo
