@@ -7,3 +7,5 @@ Author - Vineeth (myinsghts)
 git commit - local repo
 
 git commit - main repo
+
+git pull check
